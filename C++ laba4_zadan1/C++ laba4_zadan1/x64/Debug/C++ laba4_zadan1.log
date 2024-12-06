@@ -1,0 +1,7 @@
+﻿  C++ laba4_zadan1.cpp
+C:\Users\Максим\Desktop\C++ laba4_zadan1\C++ laba4_zadan1\C++ laba4_zadan1.cpp(38,26): warning C4566: символ, представленный универсальным именем символа "\u2663", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\Desktop\C++ laba4_zadan1\C++ laba4_zadan1\C++ laba4_zadan1.cpp(38,33): warning C4566: символ, представленный универсальным именем символа "\u2666", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\Desktop\C++ laba4_zadan1\C++ laba4_zadan1\C++ laba4_zadan1.cpp(38,40): warning C4566: символ, представленный универсальным именем символа "\u2665", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\Desktop\C++ laba4_zadan1\C++ laba4_zadan1\C++ laba4_zadan1.cpp(38,47): warning C4566: символ, представленный универсальным именем символа "\u2660", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Максим\Desktop\C++ laba4_zadan1\C++ laba4_zadan1\C++ laba4_zadan1.cpp(53,86): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  C++ laba4_zadan1.vcxproj -> C:\Users\Максим\Desktop\C++ laba4_zadan1\x64\Debug\C++ laba4_zadan1.exe
